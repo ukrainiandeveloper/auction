@@ -24,7 +24,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </a>
-                <a class="navbar-brand" href="#">Auction from 3 grn</a>
+                <a class="navbar-brand" href="#">Auction from 5 grn</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
