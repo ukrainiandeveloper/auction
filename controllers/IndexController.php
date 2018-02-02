@@ -17,9 +17,4 @@ class IndexController extends Controller {
         $this->pageData['title'] = 'Main Page';
         $this->view->load($this->pageTpl, $this->pageData);
     }
-
-    public function not_found() {
-        $this->pageData['title'] = 'Not Found';
-        $this->view->load($this->page2Tpl, $this->pageData);
-    }
 }
